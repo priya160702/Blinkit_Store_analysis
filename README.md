@@ -1,6 +1,6 @@
 # Blinkit Sales & Outlet Performance Dashboard
 
-Domain: Retail Analytics | Business Intelligence
+Domain: Retail Analytics, Business Intelligence
 
 ## Problem Statement
 
